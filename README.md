@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C#, Javascript, HTML and CSS
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me: thaiscardosofarias@gmail.com
 - ⚡ Fun fact: I love candy colors!
 
